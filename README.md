@@ -1,5 +1,5 @@
 # 💫 About Me:
--🌱 I’m currently learning **React.js** and **Node.js**<br>- 👯 I’m looking to collaborate on **open-source projects**<br>- 💬 Ask me about **JavaScript, and web development**<br>- ⚡ Fun fact: I enjoy watching anime in free time
+-🌱 I am a  **MERN STACK developer**<br>- 👯 I’m looking to collaborate on **open-source projects**<br>- 💬 Ask me about **JavaScript, and web development**<br>- ⚡ Fun fact: I enjoy watching anime in free time
 
 
 ## 🌐 Socials:
